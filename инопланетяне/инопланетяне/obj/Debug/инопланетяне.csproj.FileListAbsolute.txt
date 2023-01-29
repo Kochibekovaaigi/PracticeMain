@@ -1,0 +1,12 @@
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\инопланетяне\инопланетяне\bin\Debug\инопланетяне.dll
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\инопланетяне\инопланетяне\bin\Debug\инопланетяне.pdb
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\инопланетяне\инопланетяне\obj\Debug\инопланетяне.csproj.AssemblyReference.cache
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\инопланетяне\инопланетяне\obj\Debug\инопланетяне.csproj.CoreCompileInputs.cache
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\инопланетяне\инопланетяне\obj\Debug\инопланетяне.dll
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\инопланетяне\инопланетяне\obj\Debug\инопланетяне.pdb
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\инопланетяне\инопланетяне\bin\Debug\инопланетяне.dll
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\инопланетяне\инопланетяне\bin\Debug\инопланетяне.pdb
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\инопланетяне\инопланетяне\obj\Debug\инопланетяне.csproj.AssemblyReference.cache
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\инопланетяне\инопланетяне\obj\Debug\инопланетяне.csproj.CoreCompileInputs.cache
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\инопланетяне\инопланетяне\obj\Debug\инопланетяне.dll
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\инопланетяне\инопланетяне\obj\Debug\инопланетяне.pdb

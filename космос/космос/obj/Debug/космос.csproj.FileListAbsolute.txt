@@ -1,0 +1,57 @@
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\bin\Debug\космос.exe.config
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\bin\Debug\космос.exe
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\bin\Debug\космос.pdb
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\bin\Debug\инопланетяне.dll
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\bin\Debug\инопланетяне.pdb
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос.csproj.AssemblyReference.cache
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос.csproj.SuggestedBindingRedirects.cache
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\MainWindow.g.cs
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\App.g.cs
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос_MarkupCompile.cache
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос_MarkupCompile.lref
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\MainWindow.baml
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос.g.resources
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос.Properties.Resources.resources
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос.csproj.GenerateResource.cache
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос.csproj.CoreCompileInputs.cache
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос.csproj.CopyComplete
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос.exe
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\космостарс\космос\космос\obj\Debug\космос.pdb
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\bin\Debug\космос.exe.config
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\bin\Debug\космос.exe
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\bin\Debug\космос.pdb
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\bin\Debug\инопланетяне.dll
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\bin\Debug\инопланетяне.pdb
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос.csproj.AssemblyReference.cache
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\MainWindow.g.cs
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\App.g.cs
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос_MarkupCompile.cache
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос_MarkupCompile.lref
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\MainWindow.baml
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос.g.resources
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос.Properties.Resources.resources
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос.csproj.GenerateResource.cache
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос.csproj.CoreCompileInputs.cache
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос.csproj.CopyComplete
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос.exe
+C:\Users\bakan\source\repos\Avito\varya.wwwr.t\task3\космос\космос\obj\Debug\космос.pdb
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\bin\Debug\космос.exe.config
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\bin\Debug\космос.exe
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\bin\Debug\космос.pdb
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\bin\Debug\инопланетяне.dll
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\bin\Debug\инопланетяне.pdb
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос.csproj.AssemblyReference.cache
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос.csproj.SuggestedBindingRedirects.cache
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\MainWindow.g.cs
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\App.g.cs
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос_MarkupCompile.cache
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос_MarkupCompile.lref
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\MainWindow.baml
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос.g.resources
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос.Properties.Resources.resources
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос.csproj.GenerateResource.cache
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос.csproj.CoreCompileInputs.cache
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос.csproj.CopyComplete
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос.exe
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\космос\космос\obj\Debug\космос.pdb
